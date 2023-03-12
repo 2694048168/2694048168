@@ -1,4 +1,4 @@
-### Wei Li
+## Wei Li
 
 - 👋 Wei Li&nbsp;(黎 为)
 - 🤔 Email: weili_yzzcq@163.com
@@ -6,7 +6,7 @@
 - 😄 the New Generation Electronic Information Technology for Master's degree in SOFTWARE JXUFE
 - ⚡ Research in Image Super-Resolution & Low-Light Image Enhancement and Image Restoration
 - 💬 Technical points: Deep Learning, PyTorch & TensorFlow2, C++ & Python, Linux & LaTex
-- 🌱 Research area: **Image Processing & Image Restoration**, **Computer Vision & Neural Networks**, **3D Vision & Neural Rendering**.
+- 🌱 Research area: **Image Processing & Image Restoration**, **Computer Vision & Neural Networks**, **3D Vision & Neural Rendering**
 
 <br />
 
