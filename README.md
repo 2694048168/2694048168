@@ -2,6 +2,7 @@
 
 - 👋 Wei Li&nbsp;(黎 为)
 - 🤔 Email: weili_yzzcq@163.com
+- ⚡ Blog: [Wei Li Blog](https://2694048168.github.io/blog/)
 - 👯 the Internet of Things(IoT) Engineering for Bachelor's degree in SOFTWARE JXUFE
 - 😄 the New Generation Electronic Information Technology for Master's degree in SOFTWARE JXUFE
 - ⚡ Research in Image Super-Resolution & Low-Light Image Enhancement and Image Restoration
