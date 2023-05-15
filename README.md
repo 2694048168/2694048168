@@ -8,6 +8,21 @@
 - ⚡ Research in Image Super-Resolution & Low-Light Image Enhancement and Image Restoration
 - 💬 Technical points: Deep Learning, PyTorch & TensorFlow2, C++ & Python, Linux & LaTex
 - 🌱 Research area: **Image Processing & Image Restoration**, **Computer Vision & Neural Networks**, **3D Vision & Neural Rendering**
+
+### My skills
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cpp" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50"/>
+  <img src="https://img.icons8.com/dusk/64/000000/python.png" alt="python" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/>
+</p>
+
+<p>
+  <img align="left" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2694048168&layout=compact&hide=html,asp,jupyter%20notebook" alt="2694048168" />
+  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=2694048168&show_icons=true" alt="2694048168" />
+</p>
+
 <!-- 
 <br />
 
