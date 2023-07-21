@@ -14,7 +14,7 @@
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cpp" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/cmake/cmake-icon.svg" alt="cmake" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" alt="rust" width="50" height="50"/>
-  <img src="https://icons8.com/icon/45490/c-sharp-logo-2" alt="C-sharp" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=512&id=45490&format=png" alt="C-sharp" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
   <img src="https://img.icons8.com/dusk/64/000000/python.png" alt="python" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/>
