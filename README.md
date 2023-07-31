@@ -24,12 +24,12 @@
 </p>
 
 <p>
-  <img align="left" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2694048168&layout=compact&hide=html,asp,jupyter%20notebook" alt="2694048168" />
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=2694048168&show_icons=true" alt="2694048168" />
+  <img align="left" width="350" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=2694048168&layout=compact&hide=html,asp,jupyter%20notebook" alt="2694048168" />
+  <img align="center" width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=2694048168&show_icons=true" alt="2694048168" />
 </p>
 
 <!-- 
 <br />
 
-<a href="https://github.com/2694048168/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=2694048168&show_icons=true&&theme=radical" /></a><a href="https://github.com/2694048168/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2694048168&layout=compact&theme=radical&hide_border=true" /></a>
+<a href="https://github.com/2694048168/github-readme-stats"><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=2694048168&show_icons=true&&theme=radical" /></a><a href="https://github.com/2694048168/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=2694048168&layout=compact&theme=radical&hide_border=true" /></a>
  -->
