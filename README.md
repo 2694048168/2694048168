@@ -21,7 +21,7 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="50" height="50"/>
-  <img src="https://icons8.com/icon/48455/visual-studio" alt="vs" width="50" height="50"/>
+  <img src="[https://icons8.com/icon/48455/visual-studio](https://icons8.com/icon/48455/visual-studio)" alt="vs" width="50" height="50"/>
 </p>
 
 <p>
