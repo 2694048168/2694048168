@@ -22,6 +22,7 @@
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="50" height="50"/>
   <img src="https://img.icons8.com/?size=1x&id=48455&format=png" alt="vs" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg" alt="qt" width="50" height="50"/>
 </p>
 
 <p>
