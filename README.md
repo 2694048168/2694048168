@@ -12,7 +12,7 @@
 - 😄 the New Generation Electronic Information Technology for Master's degree in SOFTWARE JXUFE
 - ⚡ Research in Image Super-Resolution & Low-Light Image Enhancement and Image Restoration
 - 💬 Technical points: Deep Learning, PyTorch & TensorFlow2, C++ & Python, Linux & LaTex
-- 🌱 Research area: **Image Processing & Image Restoration**, **Computer Vision & Neural Networks**, **3D Vision & Neural Rendering**, **Machine Vision & The Industrial Internet of Things**
+- 🌱 Research area: **Image Processing & Image Restoration**, **Computer Vision & Neural Networks**, **3D Vision & Neural Rendering**, <br /> &emsp;&emsp;&emsp;**Machine Vision & The Industrial Internet of Things**
 
 ### My skills
 <p align="left">
