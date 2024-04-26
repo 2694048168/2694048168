@@ -5,7 +5,7 @@
 
 ## Wei Li
 
-- 👋 Wei Li&nbsp;(黎 为)
+- 👋 Wei Li&nbsp;(黎 为)&nbsp;(Ithaca)
 - 🤔 Email: weili_yzzcq@163.com
 - ⚡ Blog: [Wei Li Blog](https://2694048168.github.io/blog/)
 - 👯 the Internet of Things(IoT) Engineering for Bachelor's degree in SOFTWARE JXUFE
