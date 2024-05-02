@@ -32,7 +32,7 @@
 
 <!-- 
 <p>
-  <img align="left" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2694048168&layout=compact&hide=html,asp,jupyter%20notebook" alt="2694048168" />
+  <img align="left" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2694048168&layout=compact&hide=html,asp,jupyter%20notebook,MATLAB" alt="2694048168" />
   <img align="center" width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=2694048168&show_icons=true" alt="2694048168" />
 </p>
  -->
@@ -46,7 +46,7 @@
 
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2694048168&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6&hide=html,asp,jupyter%20notebook" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2694048168&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6&hide=html,asp,jupyter%20notebook,MATLAB,Makefile" alt="2694048168"/>
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=2694048168&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
 <img align="center" width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=2694048168&show_icons=true&hide_border=true" alt="2694048168" />
