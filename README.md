@@ -1,7 +1,11 @@
  <!-- https://github.com/DenverCoder1/readme-typing-svg -->
+  <!--
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=35&pause=100&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+Wei Li+GitHub!;Talk+is+Cheap, Show+me+the+Code!;Stay+Hungry, Stay+Foolish!" />
 </p>
+ -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1000&pause=50&width=600&lines=Welcome+to+Wei+Li+GitHub;Talk+is+Cheap%2C+Show+me+the+Code!;Stay+Hungry%2C+Stay+Foolish!)](https://git.io/typing-svg)
 
 ## Wei Li
 
