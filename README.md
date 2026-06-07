@@ -47,16 +47,15 @@
 <a href="https://github.com/2694048168/github-readme-stats"><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=2694048168&show_icons=true&&theme=radical" /></a><a href="https://github.com/2694048168/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=2694048168&layout=compact&theme=radical&hide_border=true" /></a>
  -->
 
-
 <p align="center">
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2694048168&theme=transparent&hide_border=true&layout=compact&langs_count=6&hide=html,asp,Jupyter%20Notebook,MATLAB,Makefile" alt="2694048168" />
-<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=2694048168&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
-<img align="center" width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=2694048168&show_icons=true&hide_border=true" alt="2694048168" />
+<!-- 语言统计卡片：按仓库统计 -->
+<img align="left" width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=2694048168&theme=github_dark&exclude=html,asp,jupyter%20notebook,matlab,makefile,css,scss" alt="Repos Per Language" />
+<!-- 语言统计卡片：按提交量统计 -->
+<img align="center" width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=2694048168&theme=github_dark&exclude=html,asp,jupyter%20notebook,matlab,makefile,css,scss" alt="Most Commit Language" />
+<!-- 总体统计卡片 -->
+<img align="right" width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=2694048168&theme=github_dark" alt="Stats" />
 <br/>
-<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=2694048168&theme=github-compact&hide_border=true&area=true" />
+<!-- 基本信息卡片，放在最下方拉长 -->
+<img width="980" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2694048168&theme=github_dark" alt="Profile Details" />
 <br/>
 </p>
-
