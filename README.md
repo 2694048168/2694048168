@@ -49,11 +49,11 @@
 
 <p align="center">
 <!-- 语言统计卡片：按仓库统计 -->
-<img align="left" width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=2694048168&theme=github_dark&exclude=html,asp,jupyter%20notebook,matlab,makefile,css,scss" alt="Repos Per Language" />
+<img align="left" width="250" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=2694048168&theme=github_dark&exclude=html,asp,jupyter%20notebook,matlab,makefile,css,scss" alt="Repos Per Language" />
 <!-- 语言统计卡片：按提交量统计 -->
-<img align="center" width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=2694048168&theme=github_dark&exclude=html,asp,jupyter%20notebook,matlab,makefile,css,scss" alt="Most Commit Language" />
+<img align="center" width="250" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=2694048168&theme=github_dark&exclude=html,asp,jupyter%20notebook,matlab,makefile,css,scss" alt="Most Commit Language" />
 <!-- 总体统计卡片 -->
-<img align="right" width="300" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=2694048168&theme=github_dark" alt="Stats" />
+<img align="right" width="250" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=2694048168&theme=github_dark" alt="Stats" />
 <br/>
 <!-- 基本信息卡片，放在最下方拉长 -->
 <img width="980" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2694048168&theme=github_dark" alt="Profile Details" />
